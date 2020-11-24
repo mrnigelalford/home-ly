@@ -62,3 +62,15 @@ export enum grass {
 	StAugustinegrass,
 	Zoysiagras,
 }
+
+export enum state {
+	GA, TN, FL, SC, NC, AL, MS
+}
+
+export enum country {
+	US
+}
+
+export enum industry {
+	plumber, electrician, contractor, yard_maintenance, arborist, home_inspector, carpet_cleaner, handyman, general_contractor
+}

@@ -11,7 +11,7 @@ import {
 
 // types
 
-type photo = {
+export type photo = {
 	title: String;
 	location: String; // pointer to bucket location,
 	date: Date;
@@ -52,6 +52,7 @@ export type receipt = {
 	img: String; // location of image in bucket,
 	description: String;
 	id: String; // auto generated,
+	date: Date;
 	set_receipt: () => unit['receipt']; // setter to store the receipt and set the ID property
 };
 
@@ -106,3 +107,9 @@ export type room = {
 	closet?: closet[];
 	photos: photo[];
 };
+
+export type stock = {
+	name: String,
+	type: String,
+	quantity: Number
+}

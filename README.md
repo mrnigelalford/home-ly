@@ -18,6 +18,35 @@ Outdoor needs
   [c] plants
   [c] Camera system logins
   [c] Calendar of events?
+  manage communications for service platforms?
+    ex. see all vendor specific communications via thumbtack.
+
+### Screens
+  #### Login
+    - Google, or email
+  #### Home
+    - Add new item (house, room, repair, etc)
+    - upcoming recurring service
+    - picture of home
+    - floorplan
+    - service provider list
+    - time/weather/date
+    - navigate into a given room or area of the house
+    - list breakdown of the house/room hierarchy
+    - dropdown to select additional house
+    - estimated home value (zillow integration)
+    - home value chart
+    - map of house and area :smile:
+  #### Logout :peace:
+  
+## Questions
+  Mobile only?
+  Responsive?
+
+## Integrations
+  Google Maps
+  Zillow
+  Thumbtack
 
 ### Data Model
 [Home Type Definition](./src/types/home.types.ts)
