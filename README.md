@@ -24,7 +24,7 @@ Now your home has a management solution.
     - estimated home value (zillow integration)
     - home value chart
     - map of house and area :smile:
-  #### Logout :peace:
+  #### Logout :v:
   
 ## Questions
   Mobile only?
