@@ -1,5 +1,6 @@
 # Home-ly
 Now your home has a management solution.
+![home gif](https://cdn.dribbble.com/users/130603/screenshots/7849095/media/6fb527d11feddd7fb364273cba6eebb8.gif)
 
 ### Areas of coverage
 [c] Store receipts
