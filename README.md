@@ -3,24 +3,10 @@ Now your home has a management solution.
 ![home gif](https://cdn.dribbble.com/users/130603/screenshots/7849095/media/6fb527d11feddd7fb364273cba6eebb8.gif)
 
 ### Areas of coverage
-[c] Store receipts
-[c] Services completed
-[c] Rooms
-Planned needs
-  [c] filter replacement
-  [c] window cleaning
-  [c] pest control
-  [c] pressure washing
-  [c] roof repair
-  [c] carpet cleaning
-  [c] outdoor paint
-  [c] indoor paint
-Outdoor needs
-  [c] plants
-  [c] Camera system logins
-  [c] Calendar of events?
-  manage communications for service platforms?
-    ex. see all vendor specific communications via thumbtack.
+* Store receipts
+* Services completed
+* Rooms
+* Indoor vs Outdoor maintenance
 
 ### Screens
   #### Login
